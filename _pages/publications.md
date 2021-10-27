@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2021
+___
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### <span style="color:#52ADC8">Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications</span>
+<b>Yiting Qu</b>, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu.\
+In *IEEE Internet of Things Journal (IoTJ)*, 2021.\
+[[Link](https://ieeexplore.ieee.org/abstract/document/9270036)]
