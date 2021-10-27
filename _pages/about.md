@@ -15,7 +15,7 @@ Research Interests
 - Security and Privacy of Machine Learning
 - Optimization in Machine Learning
 
-**Publications
+Publications
 ======
 ### <span style="color:#52ADC8">Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications</span>
 <b>Yiting Qu</b>, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu.\
