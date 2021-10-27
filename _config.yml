@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiting Qu"
+title                    : "Yiting Qu(瞿艺婷)"
 title_separator          : "-"
 name                     : &name "Yiting Qu"
 description              : &description "First-year Ph.D. student at CISPA Helmholtz Center for Information Security"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiting Qu"
+#   name             : "Yiting Qu"
   avatar           : "YitingQu.jpg"
   bio              : "First-year Ph.D. student at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
