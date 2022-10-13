@@ -11,9 +11,9 @@ I am currently a first-year Ph.D. student at [CISPA Helmholtz Center for Informa
 
 Research Interests
 ======
-- Security and Privacy of Machine Learning
-- Optimization in Machine Learning
-- IoT Security
+- Machine Learning Privacy and Security
+- Misuses of Text-to-Image Models
+- Applications of Multimodal Models on Hateful Memes
 
 Publications
 ======
