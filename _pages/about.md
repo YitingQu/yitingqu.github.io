@@ -13,7 +13,7 @@ Research Interests
 ======
 - Machine Learning Privacy and Security
 - Misuses of Text-to-Image Models
-- Applications of Multimodal Models on Hateful Memes
+- Applications of Multimodal Models in Studying Hateful Memes
 
 Publications
 ======
