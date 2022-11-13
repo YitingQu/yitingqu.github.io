@@ -23,5 +23,5 @@ In *IEEE Internet of Things Journal (IoTJ)*, 2020.
 
 What's New
 ======
-- [November 2022] I pass my PhD Qualifying Exam!
+- [November 2022] I passed my PhD Qualifying Exam!
 - [November 2021] I joined CISPA to start my PhD!
