@@ -17,7 +17,7 @@ Research Interests
 
 Publications
 ======
-- On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning
+- On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning \
 <b>Yiting Qu</b>, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou
 *IEEE S&P 2023*
 - [Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications](https://ieeexplore.ieee.org/abstract/document/9270036)\
