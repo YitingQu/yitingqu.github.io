@@ -19,10 +19,13 @@ Publications
 ======
 - Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models \
 **Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023*
+
 - [On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning](https://arxiv.org/abs/2212.06573) \
 **Yiting Qu**, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; *IEEE S&P 2023*
+
 - [Prompt Stealing Attacks Against Text-to-Image Generation Models](https://arxiv.org/abs/2302.09923) \
 Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang
+
 - [Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications](https://ieeexplore.ieee.org/abstract/document/9270036)\
 **Yiting Qu**, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu; *IoTJ 2020*
 
