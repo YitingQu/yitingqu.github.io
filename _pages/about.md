@@ -18,8 +18,8 @@ Research Interests
 Publications
 ======
 - Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models \
-**Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023*
-<span style="color:blue">some *test* text</span>.
+**Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023* \
+<span style="color:blue">*test*</span>
 - [On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning](https://arxiv.org/abs/2212.06573) \
 **Yiting Qu**, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; *IEEE S&P 2023*
 
