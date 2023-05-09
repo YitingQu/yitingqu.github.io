@@ -12,18 +12,24 @@ I am currently a second-year Ph.D. student at [CISPA Helmholtz Center for Inform
 Research Interests
 ======
 - Machine Learning Privacy and Security
-- Misuses of Text-to-Image Models
-- Applications of Multimodal Models in Studying Hateful Memes
+- Safety of Foundation Models
+- Online Hate, Hateful Memes
 
 Publications
 ======
-- On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning \
-<b>Yiting Qu</b>, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; *IEEE S&P 2023*
+- Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models \
+**Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023*
+- [On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning](https://arxiv.org/abs/2212.06573) \
+**Yiting Qu**, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; *IEEE S&P 2023*
+- [Prompt Stealing Attacks Against Text-to-Image Generation Models](https://arxiv.org/abs/2302.09923) \
+Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang
 - [Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications](https://ieeexplore.ieee.org/abstract/document/9270036)\
-<b>Yiting Qu</b>, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu; *IoTJ 2020*
+**Yiting Qu**, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu; *IoTJ 2020*
 
 What's New
 ======
-- [December 2022] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
-- [November 2022] I passed my PhD Qualifying Exam!
-- [November 2021] I joined CISPA to start my PhD!
+- [2023.05] One paper titled “Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models” got accepted in [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)! See you in Copenhagen!
+- [2023.01] Our paper titled “Prompt Stealing Attacks Against Text-to-Image Generation Models” is online. This is the first study on prompt stealing attacks. You can read it [here](https://arxiv.org/abs/2302.09923)!
+- [2022.12] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
+- [2022.11] I passed my PhD Qualifying Exam!
+- [2021.11] I joined CISPA to start my PhD!
