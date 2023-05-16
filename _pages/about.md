@@ -17,21 +17,22 @@ Research Interests
 
 Publications
 ======
-- **Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models** \
+### <span style="color:#52ADC8">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span>
 **Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023* 
 
-- **On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning** \
+### <span style="color:#52ADC8">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span>
 **Yiting Qu**, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; *IEEE S&P 2023* \
-[arxiv](https://arxiv.org/abs/2212.06573) 
-[code](https://github.com/YitingQu/meme-evolution)
+[[PDF](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b348/1Js0DSpXQD6)]
+[[arXiv]](https://arxiv.org/abs/2212.06573) 
+[[Code]](https://github.com/YitingQu/meme-evolution)
 
-- **Prompt Stealing Attacks Against Text-to-Image Generation Models** \
+### <span style="color:#52ADC8">Prompt Stealing Attacks Against Text-to-Image Generation Models</span>
 Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang \
-[arxiv](https://arxiv.org/abs/2212.06573) 
-
-- **Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications** \
+[[arXiv]](https://arxiv.org/abs/2212.06573) 
+  
+### <span style="color:#52ADC8">Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications</span>
 **Yiting Qu**, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu; *IoTJ 2020* \
-[link](https://ieeexplore.ieee.org/abstract/document/9270036)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9270036)
 
 What's New
 ======
