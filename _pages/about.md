@@ -23,16 +23,16 @@ Publications
 ### <span style="color:#52ADC8">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span>
 **Yiting Qu**, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou; *IEEE S&P 2023* \
 [[PDF](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b348/1Js0DSpXQD6)]
-[[arXiv]](https://arxiv.org/abs/2212.06573) 
-[[Code]](https://github.com/YitingQu/meme-evolution)
+[[arXiv](https://arxiv.org/abs/2212.06573)]
+[[Code](https://github.com/YitingQu/meme-evolution)]
 
 ### <span style="color:#52ADC8">Prompt Stealing Attacks Against Text-to-Image Generation Models</span>
 Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang \
-[[arXiv]](https://arxiv.org/abs/2212.06573) 
+[[arXiv](https://arxiv.org/abs/2212.06573)]
   
 ### <span style="color:#52ADC8">Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications</span>
 **Yiting Qu**, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu; *IoTJ 2020* \
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/9270036)
+[[PDF](https://ieeexplore.ieee.org/abstract/document/9270036)]
 
 What's New
 ======
