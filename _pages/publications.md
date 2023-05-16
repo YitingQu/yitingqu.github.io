@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+
+### <span style="color:#52ADC8">On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning</span>
+**Yiting Qu**, Xinlei He, Shannon Pierson, Michael Backes, Yang Zhang, Savvas Zannettou \
+IEEE S&P 2023 \
+[[PDF](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b348/1Js0DSpXQD6)]
+[[arXiv](https://arxiv.org/abs/2212.06573)]
+[[Code](https://github.com/YitingQu/meme-evolution)]
+
 ## 2021
 ___
 
