@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a second-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Prof. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my master's degree at Shanghai Jiao Tong University (2021) and obtained my bachelor's degree at Shandong University (2018).
+I am currently a third-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Prof. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my master's degree at Shanghai Jiao Tong University (2021) and obtained my bachelor's degree at Shandong University (2018).
 
 Research Interests
 ======
@@ -17,6 +17,11 @@ Research Interests
 
 Publications
 ======
+### <span style="color:#52ADC8">FAKEPCD: Fake Point Cloud Detection via Source Attribution</span>
+**Yiting Qu**, Zhikun Zhang, Yun Shen, Michael Backes, Yang Zhang; *ACM ASIACCS 2024* \
+[[arXiv](https://arxiv.org/abs/2312.11213)]
+[[Code](https://github.com/YitingQu/FakePCD)]
+
 ### <span style="color:#52ADC8">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span>
 **Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023* \
 [[arXiv](https://arxiv.org/abs/2305.13873)]
@@ -39,6 +44,7 @@ Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang \
 
 What's New
 ======
+- [2024.01] One paper titled “FAKEPCD: Fake Point Cloud Detection via Source Attribution” got accepted in [ACM ASIACCS 2024](https://asiaccs2024.sutd.edu.sg/). See you in Singapore!
 - [2023.05] One paper titled “Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models” got accepted in [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)! See you in Copenhagen!
 - [2023.01] Our paper titled “Prompt Stealing Attacks Against Text-to-Image Generation Models” is online. This is the first study on prompt stealing attacks. You can read it [here](https://arxiv.org/abs/2302.09923)!
 - [2022.12] One paper titled “On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning” got accepted in [Oakland 2023](https://www.ieee-security.org/TC/SP2023/)!
