@@ -22,6 +22,10 @@ Publications
 [[arXiv](https://arxiv.org/abs/2312.11213)]
 [[Code](https://github.com/YitingQu/FakePCD)]
 
+### <span style="color:#52ADC8">Prompt Stealing Attacks Against Text-to-Image Generation Models</span>
+Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
+[[arXiv](https://arxiv.org/abs/2212.06573)]
+
 ### <span style="color:#52ADC8">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span>
 **Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023* \
 [[arXiv](https://arxiv.org/abs/2305.13873)]
@@ -33,10 +37,6 @@ Publications
 [[PDF](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b348/1Js0DSpXQD6)]
 [[arXiv](https://arxiv.org/abs/2212.06573)]
 [[Code](https://github.com/YitingQu/meme-evolution)]
-
-### <span style="color:#52ADC8">Prompt Stealing Attacks Against Text-to-Image Generation Models</span>
-Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang \
-[[arXiv](https://arxiv.org/abs/2212.06573)]
   
 ### <span style="color:#52ADC8">Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications</span>
 **Yiting Qu**, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu; *IoTJ 2020* \
