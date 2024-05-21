@@ -26,6 +26,12 @@ Publications
 Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
 [[arXiv](https://arxiv.org/abs/2212.06573)]
 
+### <span style="color:#52ADC8">UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images</span>
+**Yiting Qu**, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang
+[[arXiv](https://arxiv.org/abs/2405.03486)]
+[Website(https://unsafebench.github.io/)]
+[Code(https://github.com/YitingQu/UnsafeBench)]
+
 ### <span style="color:#52ADC8">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span>
 **Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023* \
 [[arXiv](https://arxiv.org/abs/2305.13873)]
@@ -44,6 +50,7 @@ Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
 
 What's New
 ======
+- [2024.02] Our paper titled "Prompt Stealing Attacks Against Text-to-Image Generation Models” got accepted in [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). See you in Philadelphia!
 - [2024.01] One paper titled “FAKEPCD: Fake Point Cloud Detection via Source Attribution” got accepted in [ACM ASIACCS 2024](https://asiaccs2024.sutd.edu.sg/). See you in Singapore!
 - [2023.05] One paper titled “Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models” got accepted in [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)! See you in Copenhagen!
 - [2023.01] Our paper titled “Prompt Stealing Attacks Against Text-to-Image Generation Models” is online. This is the first study on prompt stealing attacks. You can read it [here](https://arxiv.org/abs/2302.09923)!
