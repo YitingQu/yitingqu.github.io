@@ -27,10 +27,10 @@ Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
 [[arXiv](https://arxiv.org/abs/2212.06573)]
 
 ### <span style="color:#52ADC8">UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images</span>
-**Yiting Qu**, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang
+**Yiting Qu**, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang \
 [[arXiv](https://arxiv.org/abs/2405.03486)]
-[Website(https://unsafebench.github.io/)]
-[Code(https://github.com/YitingQu/UnsafeBench)]
+[[Website](https://unsafebench.github.io/)]
+[[Code](https://github.com/YitingQu/UnsafeBench)]
 
 ### <span style="color:#52ADC8">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span>
 **Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023* \
