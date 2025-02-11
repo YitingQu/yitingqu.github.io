@@ -19,7 +19,6 @@ Publications
 ======
 
 ## 2025
-<hr style="border: 0.5px solid #ddd; margin-top: -5px;">
 
 ### <span style="color:#52ADC8">HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns</span>
 Xinyue Shen, Yixin Wu, **Yiting Qu**, Michael Backes, Savvas Zannettou, Yang Zhang; *USENIX Security 2025* \
@@ -31,7 +30,6 @@ Yihan Ma, Xinyue Shen, **Yiting Qu**, Ning Yu, Michael Backes, Savvas Zannettou,
 [[Code](https://github.com/TrustAIRLab/Hateful_Memes_in_VLM)]
 
 ## 2024
-<hr style="border: 0.5px solid #ddd; margin-top: -5px;">
 
 ### <span style="color:#52ADC8">FAKEPCD: Fake Point Cloud Detection via Source Attribution</span>
 **Yiting Qu**, Zhikun Zhang, Yun Shen, Michael Backes, Yang Zhang; *ACM ASIACCS 2024* \
@@ -49,7 +47,6 @@ Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
 [[Code](https://github.com/YitingQu/UnsafeBench)]
 
 ## 2023
-<hr style="border: 0.5px solid #ddd; margin-top: -5px;">
 
 ### <span style="color:#52ADC8">Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models</span>
 **Yiting Qu**, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang; *ACM CCS 2023* \
@@ -64,7 +61,6 @@ Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
 [[Code](https://github.com/YitingQu/meme-evolution)]
 
 ## 2020
-<hr style="border: 0.5px solid #ddd; margin-top: -5px;">
 
 ### <span style="color:#52ADC8">Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications</span>
 **Yiting Qu**, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu; *IoTJ 2020* \
