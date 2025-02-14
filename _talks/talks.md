@@ -1,5 +1,6 @@
 ---
 title: "Evolution of Hateful Memes"
+permalink: /teaching/
 collection: talks
 type: "Talk"
 video_url: "https://www.youtube.com/watch?v=jb7K7C7r7ls"
