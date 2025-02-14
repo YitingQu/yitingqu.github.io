@@ -12,7 +12,7 @@ Location: Shanghai Jiao Tong University & Fudan University
 Date: 2024-01
 
 <a href="https://www.bilibili.com/video/BV1fa4y1q7nr?t=1.1" target="_blank">
-  <img src="https://i2.hdslb.com/bfs/archive/f7e37e79a0a44ac2013498df842ecce8d7d77eb9.jpg@672w_378h_1c_!web-search-common-cover.avif" alt="Thumbnail" style="width:200px; height:auto;">
+  <img src="/images/sjtu_talk.png" alt="Thumbnail" style="width:200px; height:auto;">
 </a>
 
 
