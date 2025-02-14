@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
 
 ## 2025
 
@@ -29,6 +27,7 @@ Yihan Ma, Xinyue Shen, **Yiting Qu**, Ning Yu, Michael Backes, Savvas Zannettou,
 ### <span style="color:#52ADC8">Prompt Stealing Attacks Against Text-to-Image Generation Models</span>
 Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
 [[arXiv](https://arxiv.org/abs/2212.06573)]
+[[Code](https://github.com/verazuo/prompt-stealing-attack)]
 
 ### <span style="color:#52ADC8">UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images</span>
 **Yiting Qu**, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang \
