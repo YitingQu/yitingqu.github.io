@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "About Me"
+    url: /aboutme/
+
   - title: "Publications"
     url: /publications/ 
 
@@ -7,10 +11,7 @@ main:
     url: /teaching/    
   
   - title: "Talks"
-    url: /talks/   
-    
-#   - title: "Portfolio"
-#     url: /portfolio/
+    url: /talks/  
         
 #   - title: "Blog Posts"
 #     url: /My Notebook/
