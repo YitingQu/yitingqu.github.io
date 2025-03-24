@@ -9,7 +9,7 @@ author_profile: true
 
 **Conferences:** 
 
-2025: USENIX Security (Artifact), KDD (Research Track)
+2025: USENIX Security (Artifact), KDD
 
 
 ## Reviewer/SubReviewer
