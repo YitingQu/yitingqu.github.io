@@ -7,6 +7,21 @@ author_profile: true
 
 
 ## 2025
+### <span style="color:#52ADC8">UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images</span>
+**Yiting Qu**, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang; *CCS 2025* \
+[[arXiv](https://arxiv.org/abs/2405.03486)]
+[[Website](https://unsafebench.github.io/)]
+[[Code](https://github.com/YitingQu/UnsafeBench)]
+
+### <span style="color:#52ADC8">Hate in Plain Sight: On the Risks of Moderating AI-Generated Hateful Illusions</span>
+**Yiting Qu**, Ziqing Yang, Yihan Ma, Michael Backes, Savvas Zannettou, Yang Zhang; *ICCV 2025* \
+[[arXiv]()]
+[[Code]()]
+
+### <span style="color:#52ADC8">Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities</span>
+**Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2025* \
+[[arXiv](https://arxiv.org/abs/2507.11155v1)]
+[[Code](https://github.com/TrustAIRLab/SaferVLM)]
 
 ### <span style="color:#52ADC8">HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns</span>
 Xinyue Shen, Yixin Wu, **Yiting Qu**, Michael Backes, Savvas Zannettou, Yang Zhang; *USENIX Security 2025* \
@@ -28,12 +43,6 @@ Yihan Ma, Xinyue Shen, **Yiting Qu**, Ning Yu, Michael Backes, Savvas Zannettou,
 Xinyue Shen, **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2024* \
 [[arXiv](https://arxiv.org/abs/2212.06573)]
 [[Code](https://github.com/verazuo/prompt-stealing-attack)]
-
-### <span style="color:#52ADC8">UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images</span>
-**Yiting Qu**, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang \
-[[arXiv](https://arxiv.org/abs/2405.03486)]
-[[Website](https://unsafebench.github.io/)]
-[[Code](https://github.com/YitingQu/UnsafeBench)]
 
 ## 2023
 
