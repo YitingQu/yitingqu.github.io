@@ -15,8 +15,8 @@ author_profile: true
 
 ### <span style="color:#52ADC8">Hate in Plain Sight: On the Risks of Moderating AI-Generated Hateful Illusions</span>
 **Yiting Qu**, Ziqing Yang, Yihan Ma, Michael Backes, Savvas Zannettou, Yang Zhang; *ICCV 2025* \
-[[arXiv]()]
-[[Code]()]
+[[arXiv](https://www.arxiv.org/abs/2507.22617)]
+[[Code](https://github.com/TrustAIRLab/HatefulIllusion)]
 
 ### <span style="color:#52ADC8">Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities</span>
 **Yiting Qu**, Michael Backes, Yang Zhang; *USENIX Security 2025* \
