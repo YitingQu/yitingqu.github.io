@@ -30,6 +30,7 @@ Xinyue Shen, Yixin Wu, **Yiting Qu**, Michael Backes, Savvas Zannettou, Yang Zha
 
 ### <span style="color:#52ADC8">From Meme to Threat: On the Hateful Meme Understanding and Induced Hateful Content Generation in Open-Source Vision Language Models</span>
 Yihan Ma, Xinyue Shen, **Yiting Qu**, Ning Yu, Michael Backes, Savvas Zannettou, Yang Zhang; *USENIX Security 2025* \
+[[PDF](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1017-ma-yihan.pdf)]
 [[Code](https://github.com/TrustAIRLab/Hateful_Memes_in_VLM)]
 
 ## 2024
