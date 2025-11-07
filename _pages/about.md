@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Prof. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my master's degree at Shanghai Jiao Tong University and obtained my bachelor's degree at Shandong University.
+I am currently a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/en
+). Before that, I earned my Ph.D. at CISPA in 2025, co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page
+) and [Prof. Yang Zhang](https://yangzhangalmo.github.io/). I obtained my master’s degree from Shanghai Jiao Tong University in 2021 and my bachelor’s degree from Shandong University in 2018.
 
-Research Interests
-======
-- Machine Learning Privacy and Security
-- Safety of Foundation Models
-- Online Hate, Hateful Memes
+
+My research interests lie in **trustworthy machine learning**, with a focus on the **safety and security risks of generative AI**. I work on understanding these risks, both unintentional and malicious, particularly in large generative models, and I actively develop mitigations to defend against the misuse of generative AI and the spread of harmful content across social media. Broadly, my recent work can be categorized into three main directions.
+
+- **Understanding the Real-World Misuse of Generative AI**, such as AI-Generated [unsafe imagery](https://dl.acm.org/doi/10.1145/3576915.3616679), [optical illusions](https://openaccess.thecvf.com/content/ICCV2025/papers/Qu_Hate_in_Plain_Sight_On_the_Risks_of_Moderating_AI-Generated_ICCV_2025_paper.pdf), and [hate speech](https://www.usenix.org/system/files/usenixsecurity25-shen.pdf).
+- **Identifying and Mitigating Novel Security Risks of Generative AI**, including [implicit jailbreaking](https://www.usenix.org/system/files/usenixsecurity25-qu-yiting.pdf) and [prompt stealing attacks](https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue).
+- **Actively Mitigating the Risks of Harmful Media and Deepfakes**, such as [tracing online hateful memes](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b348/1OXGSBKyJ6E), detecting [fake images](https://arxiv.org/abs/2511.00181) and [fake point clouds](https://dl.acm.org/doi/10.1145/3634737.3637645) to enhance content safety and media integrity.
+
 
 What's New
 ======
