@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiting Qu(瞿艺婷)"
 title_separator          : "-"
 name                     : &name "Yiting Qu(瞿艺婷)"
-description              : &description "Ph.D. candidate at CISPA Helmholtz Center for Information Security"
+description              : &description "Postdoctoral Researcher at CISPA Helmholtz Center for Information Security"
 url                      : https://YitingQu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yitingqu.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "headshot.jpeg"
-  bio              : "Ph.D. candidate at CISPA Helmholtz Center for Information Security"
+  avatar           : "YitingQu.png"
+  bio              : "Postdoctoral Researcher at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
