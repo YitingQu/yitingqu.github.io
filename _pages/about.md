@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am currently a postdoctoral researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/en
-). Before that, I earned my Ph.D. at CISPA in 2025, supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page
-). I obtained my master’s degree from Shanghai Jiao Tong University in 2021 and my bachelor’s degree from Shandong University in 2018.
+). Before that, I earned my Ph.D. at CISPA in 2025, co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page
+) and [Prof. Yang Zhang](https://yangzhangalmo.github.io/). I obtained my master’s degree from Shanghai Jiao Tong University in 2021 and my bachelor’s degree from Shandong University in 2018.
 
 
 My research interests lie in **trustworthy machine learning**, with a focus on the **safety and security risks of generative AI**. I work on understanding these risks, both unintentional and malicious, particularly in large generative models, and I actively develop mitigations to defend against the misuse of generative AI and the spread of harmful content across social media. Broadly, my recent work can be categorized into three main directions.
