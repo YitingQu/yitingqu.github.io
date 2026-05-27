@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+## 2026
+### <span style="color:#52ADC8">Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks</span>
+Junjie Chu, **Yiting Qu**, Ye Leng, Michael Backes, Yun Shen, Savvas Zannettou, Yang Zhang; *arXiv* \
+[[arXiv](https://arxiv.org/pdf/2603.11914)]
+[[Code](https://arxiv.org/pdf/2603.11914)]
 
 ## 2025
 ### <span style="color:#52ADC8">UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images</span>
@@ -32,6 +36,11 @@ Xinyue Shen, Yixin Wu, **Yiting Qu**, Michael Backes, Savvas Zannettou, Yang Zha
 Yihan Ma, Xinyue Shen, **Yiting Qu**, Ning Yu, Michael Backes, Savvas Zannettou, Yang Zhang; *USENIX Security 2025* \
 [[PDF](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1017-ma-yihan.pdf)]
 [[Code](https://github.com/TrustAIRLab/Hateful_Memes_in_VLM)]
+
+### <span style="color:#52ADC8">From Evidence to Verdict: An Agent-Based Forensic Framework for AI-Generated Image Detection</span>
+Mengfei Liang, **Yiting Qu**, Yukun Jiang, Michael Backes, Yang Zhang; *arXiv* \
+[[arXiv](https://arxiv.org/pdf/2511.00181)]
+[[Code](https://arxiv.org/pdf/2511.00181)]
 
 ## 2024
 
