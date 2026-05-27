@@ -21,7 +21,11 @@ My research interests lie in **trustworthy machine learning**, with a focus on t
 
 What's New
 ======
-- [2025.06-07] Three first-authored papers got accepted in USENIX 2025, ICCV 2025, and CCS 2025. 
+- [2026.04] I have been invited to serve as a PC member for PETS 2027.
+- [2025.11] I will stay at CISPA as a postdoctoral researcher.
+- [2025.07] Our hateful illusions work has been accepted to ICCV 2025 (poster).
+- [2025.06] Our safety alignment work has been accepted to USENIX 2025!
+- [2025.06] Our UnsafeBench work has been accepted to CCS 2025!
 - [2025.05] I successfully passed my PhD defense and became Dr. Qu.
 - [2025.01] Two papers got accepted in [USENIX 2025](https://www.usenix.org/conference/usenixsecurity25). See you in Seattle!
 - [2024.02] Our paper titled "Prompt Stealing Attacks Against Text-to-Image Generation Models” got accepted in [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). See you in Philadelphia!
