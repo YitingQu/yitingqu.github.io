@@ -21,6 +21,7 @@ My research interests lie in **trustworthy machine learning**, with a focus on t
 
 What's New
 ======
+- [2026.06] I have been invited to serve as a PC member for USENIX 2027.
 - [2026.04] I have been invited to serve as a PC member for PETS 2027.
 - [2025.11] I will stay at CISPA as a postdoctoral researcher.
 - [2025.07] Our hateful illusions work has been accepted to ICCV 2025 (poster).
