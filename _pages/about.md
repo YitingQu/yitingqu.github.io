@@ -21,6 +21,8 @@ My research interests lie in **trustworthy machine learning**, with a focus on t
 
 What's New
 ======
+- [2026.08] Our paper titled "MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis" got accepted in EMNLP 2026!
+- [2026.08] Our reasoning trace extraction work is now available: [EchoCoT: Extracting Hidden Chain-of-Thought from Large Reasoning Models](https://arxiv.org/pdf/2608.20055)
 - [2026.06] I have been invited to serve as a PC member for USENIX 2027.
 - [2026.04] I have been invited to serve as a PC member for PETS 2027.
 - [2025.11] I will stay at CISPA as a postdoctoral researcher.
