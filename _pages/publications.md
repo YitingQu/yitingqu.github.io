@@ -5,6 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
+
+### <span style="color:#52ADC8">MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis</span>
+Bo Shao, Yihan Ma, **Yiting Qu**, Michael Backes, Yang Zhang; *EMNLP 2026* \
+[[arXiv]()]
+[[Code]()]
+
+### <span style="color:#52ADC8">EchoCoT: Extracting Hidden Chain-of-Thought from Large Reasoning Models</span>
+**Yiting Qu**, Ziqing Yang, Chi Cui, Ye Leng, Junjie Chu, Yang Zhang; *arXiv* \
+[[arXiv](https://arxiv.org/pdf/2608.20055)]
+[[Code](https://github.com/TrustAIRLab/EchoCoT)]
+[[Webpage](https://yitingqu.github.io/EchoCoT-Viewer)]
+
+### <span style="color:#52ADC8">Innocent Panels, Hateful Stories: Evaluating and Detecting Hateful Intent in Multi-Turn Visual Story Generation</span>
+Ye Leng, Junjie Chu, **Yiting Qu**, Mingjie Li, Yun Shen, Yang Zhang; *arXiv* \
+[[arXiv](https://arxiv.org/pdf/2608.05210)]
+[[Code](https://arxiv.org/pdf/2608.05210)]
+
 ### <span style="color:#52ADC8">Understanding LLM Behavior When Encountering User-Supplied Harmful Content in Harmless Tasks</span>
 Junjie Chu, **Yiting Qu**, Ye Leng, Michael Backes, Yun Shen, Savvas Zannettou, Yang Zhang; *arXiv* \
 [[arXiv](https://arxiv.org/pdf/2603.11914)]
