@@ -17,8 +17,6 @@ My research interests lie in **trustworthy machine learning**, with a focus on t
 - **Identifying and Mitigating Novel Security Risks of Generative AI**, including [implicit jailbreaking](https://www.usenix.org/system/files/usenixsecurity25-qu-yiting.pdf) and [prompt stealing attacks](https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue).
 - **Actively Mitigating the Risks of Harmful Media and Deepfakes**, such as [tracing online hateful memes](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b348/1OXGSBKyJ6E), detecting [fake images](https://arxiv.org/abs/2511.00181) and [fake point clouds](https://dl.acm.org/doi/10.1145/3634737.3637645) to enhance content safety and media integrity.
 
-<p style="color:red"><strong>I am currently on the faculty job market. Please feel free to contact me if you think I would be a good fit :)</strong></p>
-
 What's New
 ======
 - [2026.08] Our paper titled "MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis" got accepted in EMNLP 2026!
